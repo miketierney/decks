@@ -66,6 +66,11 @@ theme: /css/static.css
 
 # Front-End and Back-End are **Completely Separate**
 
+---
+
+# Hybrid Apps
+## e.g. Meteor, "Isomorphic", Proxy Cache
+
 ===
 
 ## I've heard of this, it's a
@@ -114,7 +119,7 @@ theme: /css/static.css
 
 ---
 
-# Static apps encourage modularity from day one.
+# Static apps are modular from<br> day one.
 
 ---
 
@@ -144,6 +149,14 @@ window.onpopstate = function(event) {
 * Send cross-domain AJAX requests with full security control on the server.
 * Using `withCredentials` you can even use cookie-based sessions cross-origin.
 * Make your API consumers happy with first-class CORS support (GitHub, AWS)
+
+---
+
+# Offline Apps
+
+* Use HTML5 Cache Manifest to allow offline access
+* Use localStorage, sessionStorage, IndexedDB for persistence
+* **Hard:** Synchronizing everything when you come back online
 
 ===
 
