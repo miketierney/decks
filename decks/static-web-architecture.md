@@ -206,22 +206,6 @@ window.onpopstate = function(event) {
 
 * [**StaticApps.org:**](http://www.staticapps.org) resource site and newsletter for static apps
 * [**Static Showdown:**](http://www.staticshowdown.com) static app hackathon (check out the winners!)
-* [**divshot/superstatic**](https://github.com/divshot/superstatic) static server powering Divshot hosting
+* [**divshot/superstatic:**](https://github.com/divshot/superstatic) static server powering Divshot hosting
 * [**divshot/quick-deck:**](https://github.com/divshot/quick-deck) Reveal.js precompiler (how I made this deck)
 * [**mbleigh/decks:**](https://github.com/mbleigh/decks) the source for my personal decks
-
-<br>
-### **Warning:** Shamless Plug Incoming
-
-===
-
-#Thanks! Questions?
-## Bonus! $10 Divshot Credit
-(expires in 24 hours)
-
-```
-$ npm install -g divshot-cli && divshot login
-$ divshot redeem JSLA
-```
-
-**Shirt if you deploy an app and show me, stickers for anyone!**
