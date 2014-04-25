@@ -97,6 +97,11 @@ theme: /css/static.css
 
 ---
 
+## "Single-Page Apps are the Fixie Bikes of Web Development"
+&mdash;someone on Twitter (paraphrased)
+
+---
+
 # There are **lots** of front-end developers.
 
 ---
