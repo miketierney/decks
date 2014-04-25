@@ -6,7 +6,7 @@ I've given or plan to give at some point. They are built using the
 for [Reveal.js](http://lab.hakim.se/reveal-js/).
 
 You can view the decks at http://decks.mbleigh.com/ (they are hosted
-on [Divshot](http://www.divshot.com) in case you're curious.
+on [Divshot](http://www.divshot.com) in case you're curious).
 
 ## License
 
