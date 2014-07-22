@@ -9,6 +9,8 @@ theme: /css/static-web-rising.css
 
 ### OSCON 2014 &mdash; Portland, OR
 
+decks.mbleigh.com/static-web-rising
+
 ===
 
 # About This Talk
