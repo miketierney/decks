@@ -8,7 +8,7 @@ theme: /css/static.css
 
 ### Michael Bleigh, Divshot
 
-===
+=== data-background="#f00"
 
 # Follow Along!
 * http://decks.mbleigh.com/static-web-architecture
