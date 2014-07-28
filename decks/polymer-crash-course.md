@@ -9,7 +9,7 @@ theme: /css/material.css
 **Web Components LA**  
 July 29, 2014 / Michael Bleigh
 
-<br>**`decks.mbleigh.com/polymer-crash-course`**
+<br>**decks.mbleigh.com/polymer-crash-course**
 
 ===
 
@@ -18,6 +18,10 @@ July 29, 2014 / Michael Bleigh
 ---
 
 # **Browser Standards** for App Dev
+
+---
+
+## The **most important** browser technology for developers **since AJAX**
 
 ---
 
@@ -48,6 +52,7 @@ July 29, 2014 / Michael Bleigh
 ===
 
 # What is **Polymer**?
+### **www.polymer-project.org**
 
 ---
 
@@ -142,4 +147,3 @@ $ touch components/hello-world.html
 
 # Questions?
 ## **@mbleigh / @divshot**
-### www.polymer-project.org
