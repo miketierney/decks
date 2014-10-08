@@ -70,7 +70,7 @@ July 29, 2014 / Michael Bleigh
 
 # Step One
 
-<pre style="text-align: center; font-size: 0.7em;"><code>npm install -g yo grunt-cli bower generator-polymer</code></pre>
+<pre style="text-align: center; font-size: 0.6em;"><code>npm install -g yo grunt-cli bower generator-polymer divshot-cli</code></pre>
 
 ---
 
