@@ -1,12 +1,9 @@
-# Michael Bleigh's Presentation Decks
+# Michael Tierney's Presentation Decks
 
 This repository contains the source for various presentations that
 I've given or plan to give at some point. They are built using the
 [quick-deck](https://github.com/divshot/quick-deck) precompiler
 for [Reveal.js](http://lab.hakim.se/reveal-js/).
-
-You can view the decks at http://decks.mbleigh.com/ (they are hosted
-on [Divshot](http://www.divshot.com) in case you're curious).
 
 ## License
 

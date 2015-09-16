@@ -1,8 +1,0 @@
-{
-  "name": "mbleigh-decks",
-  "root": "dist",
-  "clean_urls": true,
-  "error_page": "error.html",
-  "cache_control": {},
-  "routes": {}
-}
