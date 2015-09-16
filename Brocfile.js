@@ -14,4 +14,4 @@ var publicTree = pickFiles('public', {
 
 var slideHTML = filterSlides(slideTree);
 
-module.exports = mergeTrees([slideHTML, publicTree]);
+module.exports = mergeTrees([slideHTML, publicTree], {overwrite: true});
